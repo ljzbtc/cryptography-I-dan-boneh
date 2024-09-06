@@ -1,4 +1,4 @@
-# Cryptography Overview Notes
+# Cryptography Notes
 
 ## 1. Core Content: Secure Communication
 
